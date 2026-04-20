@@ -65,7 +65,4 @@ Client → Order Service → Kafka → Payment Service
 
 ------------------------------------------------------------------------
 
-## 🧠 Interview Summary
 
-This project uses Kafka for event-driven communication where producer
-sends events and consumer processes them asynchronously.
