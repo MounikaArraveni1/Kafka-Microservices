@@ -45,12 +45,12 @@ Client → Order Service → Kafka → Payment Service
 
  docker run -p 9092:9092 apache/kafka
 
-### 4. Run Services
+### 2. Run Services
 
 -   Start Payment Service
 -   Start Order Service
 
-### 5. Test API
+### 3. Test API
 
     POST http://localhost:8080/orders
 
